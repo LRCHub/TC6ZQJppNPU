@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "I'm here",
+  "base_artist": "Yvng xan",
+  "createdAt": "2026-03-09T12:51:07.370132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "That's Why I'm Here",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/01_That's_Why_I'm_Here_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You're Out Doing What I'm Here Doing Without",
+      "artist": "Gene Watson",
+      "has_synced": true,
+      "path": "select/02_You're_Out_Doing_What_I'm_Here_Doing_Without_Gene_Watson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Why I'm Here",
+      "artist": "MIKE feat. RedLee",
+      "has_synced": false,
+      "path": "select/03_Why_I'm_Here_MIKE_feat._RedLee.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Why I'm Here (feat. RedLee)",
+      "artist": "MIKE",
+      "has_synced": false,
+      "path": "select/04_Why_I'm_Here_(feat._RedLee)_MIKE.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Control I'm Here",
+      "artist": "Nitzer Ebb",
+      "has_synced": true,
+      "path": "select/05_Control_I'm_Here_Nitzer_Ebb.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You're Probably Wondering Why I'm Here",
+      "artist": "The Mothers Of Invention",
+      "has_synced": false,
+      "path": "select/06_You're_Probably_Wondering_Why_I'm_Here_The_Mothers_Of_Invention.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You're Probably Wondering Why I'm Here",
+      "artist": "Frank Zappa & The Mothers of Invention",
+      "has_synced": false,
+      "path": "select/07_You're_Probably_Wondering_Why_I'm_Here_Frank_Zappa_&_The_Mothers_of_Invention.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What I'm Here 4",
+      "artist": "Gang Starr",
+      "has_synced": true,
+      "path": "select/08_What_I'm_Here_4_Gang_Starr.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Here",
+      "artist": "Aly & AJ",
+      "has_synced": true,
+      "path": "select/09_I'm_Here_Aly_&_AJ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Now I'm Here",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/10_Now_I'm_Here_Queen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You're Probably Wondering Why I'm Here",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/11_You're_Probably_Wondering_Why_I'm_Here_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "That's What I'm Here For",
+      "artist": "SWV",
+      "has_synced": false,
+      "path": "select/12_That's_What_I'm_Here_For_SWV.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Now I'm Here - Live At Milton Keynes Bowl / June 1982",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/13_Now_I'm_Here_-_Live_At_Milton_Keynes_Bowl___June_1982_Queen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Now I'm Here (Live At Milton Keynes Bowl \u0000 June 1982)",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/14_Now_I'm_Here_(Live_At_Milton_Keynes_Bowl_\u0000_June_1982)_Queen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Now I'm Here - Live At Wembley Stadium / July 1986",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/15_Now_I'm_Here_-_Live_At_Wembley_Stadium___July_1986_Queen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Now I'm Here (Live At Wembley Stadium \u0000 July 1986)",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/16_Now_I'm_Here_(Live_At_Wembley_Stadium_\u0000_July_1986)_Queen.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Now I'm Here - Live, European Tour / 1979",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/17_Now_I'm_Here_-_Live,_European_Tour___1979_Queen.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm here",
+      "artist": "Yvng xan",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_here_Yvng_xan.txt"
+    }
+  ]
+}
